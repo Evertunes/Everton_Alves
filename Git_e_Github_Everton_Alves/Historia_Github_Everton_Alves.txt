@@ -1,0 +1,24 @@
+O inventor do Git foi Linus Torvalds, criador do Linux, 
+Tudo começou quando houve um rompimento da relação entre a comunidade que desenvolvia o Kernel do Linux e a BitKeeper. 
+Bitkeeper é um sistema de controle de versão distribuído lançado sobre a licença Apache 2.0, e é um software proprietário.
+Nesse rompimento houve também a invalidação do insento de pagamento da ferramenta e o BitKeeper passou a ser 
+uma ferramante paga para Linus e sua turma.
+A revogação do inseto de pagamento e o rompimento da relação com a BitKeeper, levou Linus Torvalds a desenvolver 
+seu próprio controle de versão, baseado nas experiências de uso da BetKeeper, visando obter uma melhor performance 
+dentre todos os sistemas de controle de versão da época.
+Então, em 2005 surge o controle de versão mais utilizando no mundo atualmente, o Git. O significado de Git segundo 
+o próprio Linus, é uma gíria britânica para cabeça dura.
+
+Atualmente a Microsoft é dona do Github. Ele foi comprado por US$ 7,5 Bilhoes.
+ O GitHub é a maior plataforma de hospedagem de código-fonte no mundo, com 27 milhões de desenvolvedores de software. 
+ Ele foi avaliado em US$ 2 bilhões numa rodada de investimento em 2015.
+No entanto, a empresa vem sofrendo prejuízo: ela perdeu US$ 66 milhões em três trimestres em 2016. 
+Além disso, ela vem procurando um CEO para substituir Chris Wanstrath, um dos cofundadores. Desde agosto, 
+o diretor de negócios Julio Avalos assumiu boa parte da liderança.
+Uma fonte diz à Bloomberg que o GitHub preferiu vender a empresa para a Microsoft, 
+em vez de abrir capital na bolsa de valores, porque ficou impressionado com Nadella.
+O CEO vem reduzindo sua dependência do Windows, apostando em projetos de código-fonte aberto e até no Linux, 
+e precisa de novas formas para se conectar com os desenvolvedores.
+
+Podemos trabalhar com o Github pelo VSCode, sem precisar usar o terminal, onde temos uma interface
+bem intuitiva para realizarmos nossos commits, push's e demais ações.
